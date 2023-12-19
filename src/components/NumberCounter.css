@@ -1,0 +1,35 @@
+ 
+.number-container {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  .number{
+    font-size: 50px;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  .red {
+    color: red;
+  }
+  .increment {
+    background-color: blue;
+    color: white; 
+    border-radius: 5px;
+    height: 40px;
+    width: 70px;
+    margin: 10px;
+  }
+  
+  .decrement {
+    background-color: red;
+    color: white; 
+    border-radius: 5px;
+    height: 40px;
+    width: 70px;
+  }
